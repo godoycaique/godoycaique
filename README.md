@@ -45,3 +45,10 @@ Sou criador e responsável pela stack de dados do time de DC&Cloud, onde desenvo
 	 - **Ferramentas**: Terraform, Github Actions, Airflow, Google Cloud Storage, Big Query, Looker Studio, Google Cloud Dataproc, Google Cloud Run
 	 - **Arquitetura:**
 	![enter image description here](https://github.com/godoycaique/googlecloud_datapipeline/blob/main/img/combustiveis_brasil.png)
+
+- **Modern Stack Data Pipeline**
+	 - **Repo**: [Clique Aqui](https://github.com/godoycaique/modern_stack_data_pipeline)
+	 - **Descrição**: O objetivo desse projeto foi criar um pipeline de dados para extrair informações de uma base de dados pública acerca dos casos de COVID19 no mundo.
+	 - **Ferramentas**: Gitpod, Github, Airflow, Snowflake, Airbyte, Metabase, Docker, DBT
+	 - **Arquitetura:**
+	![enter image description here](https://github.com/godoycaique/modern_stack_data_pipeline/blob/main/img/estrutura%203.png)
